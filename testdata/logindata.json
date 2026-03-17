@@ -1,0 +1,32 @@
+[
+  {
+    "testName": "Valid login",
+    "email": "emily@mail.com",
+    "password": "test@123",
+    "expected": "success"
+  },
+  {
+    "testName": "Invalid password",
+    "email": "pavanoltraining@gmail.com",
+    "password": "xyzabc123",
+    "expected": "failure"
+  },
+   {
+    "testName": "Invalid username",
+    "email": "xyzabc123@gmail.com",
+    "password": "12345",
+    "expected": "failure"
+  },
+  {
+    "testName": "Invalid login credentials",
+    "email": "xyzabc123@gmail.com",
+    "password": "xyzabc123",
+    "expected": "failure"
+  },
+  {
+    "testName": "Missing login credentials",
+    "email": "",
+    "password": "",
+    "expected": "failure"
+  }
+]

@@ -1,0 +1,5 @@
+Exception occured while clicking 'My Account' : Error: locator.click: Test timeout of 60000ms exceeded.
+Call log:
+  - waiting for locator('span:has-text("My Account")')
+    - locator resolved to <span class="hidden-xs hidden-sm hidden-md">My Account</span>
+
