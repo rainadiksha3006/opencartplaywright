@@ -1,0 +1,6 @@
+First Name Error Message: First Name must be between 1 and 32 characters!
+Last Name Error Message: Last Name must be between 1 and 32 characters!
+Email Error Message: E-Mail Address does not appear to be valid!
+Telephone Error Message: Telephone must be between 3 and 32 characters!
+Password Error Message: Password must be between 4 and 20 characters!
+Privacy Policy Error Message:  Warning: You must agree to the Privacy Policy!

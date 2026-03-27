@@ -1,0 +1,7 @@
+Exception occured while clicking 'Login' : Error: locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator('a:has-text("Login")')
+    - locator resolved to <a href="https://naveenautomationlabs.com/opencart/index.php?route=account/login">Login</a>
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
